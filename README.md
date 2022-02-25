@@ -1,5 +1,5 @@
 # javascript
 Introdução a javascript
-Pensamento Computacional
+## Pensamento Computacional
 
 Professor Roberto Matos
